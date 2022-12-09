@@ -1,5 +1,5 @@
 
-
+# Python hello world script. Created by me, but probably done before.
 import pygame
 
 # Initializes Pygame.
